@@ -20,8 +20,6 @@ schedule up data and news updates for a given time.
   - Internet connection
   
 ### Installation
-> Packages in the requirement.txt file need to be installed first using pip: 
-
 To install **flask**, run:
 ```sh
 $ pip install Flask
@@ -45,6 +43,9 @@ $ pip install uk-covid19
 
 ### Developer's guide
 - Download and place all the files in one direcotory
+- Download the templates file rename it to index.html
+and place it in a folder called templates in the same
+directory
 - First, make sure to get the API key from the [news] website to be able to pull the news articles
 - The code has been designed to show Covid-19 data and news regarding the UK 
 - The Covid-19 data cannot be changed for cities or countries outside of the UK, however, if you open the config.json file you will see that there are many english cities you can chose. For the news, you can change the country, language, and the key words to filter the news articles for. 
