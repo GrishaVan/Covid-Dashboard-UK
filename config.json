@@ -1,0 +1,58 @@
+{
+    "API_keys":
+        {
+            "news":"Please enter your key"
+        },
+    "location_type":[
+        {
+            "united_kingod":"overview",
+            "england":"england",
+            "scotland":"scotland",
+            "wales":"wales"
+        }
+    ],
+    "covid19_cities":[
+        {
+            "exeter":"Exeter",
+            "london":"London",
+            "plymouth":"plymouth",
+            "liverpool":"liverpool",
+            "manchester":"manchester",
+            "bath":"bath",
+            "brighton":"brighton",
+            "birmingham":"birmingham",
+            "bristol":"bristol",
+            "york":"york",
+            "oxford":"oxford"
+        }
+    ],
+    "covid_terms":[
+        {
+            "covid":[
+                "covid coronavirus corona covid-19"
+            ],
+            "vaccination":[
+                "pfizer/biontech moderna astrazenca j&j first doze second doze"
+            ]
+        }
+    ],
+    "news_countries":[
+        {
+            "england":"gb",
+            "switzerland":"ch",
+            "france":"fr",
+            "usa":"us",
+            "germany":"de",
+            "italy":"it"
+        }
+    ],
+    "news_language":[
+        {
+            "english":"en",
+            "spanish":"es",
+            "german":"de",
+            "french":"fr",
+            "italian":"it"
+        }
+    ]
+}
