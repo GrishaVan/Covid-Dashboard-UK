@@ -67,6 +67,7 @@ customizability of the code
 - News API: https://newsapi.org/docs/endpoints/sources
 - Covid-19 API: https://coronavirus.data.gov.uk/details/developers-guide
 - Flask guide: https://flask.palletsprojects.com/en/1.1.x/quickstart/
+- GitHub repository: https://github.com/GrishaVan/Covid-Dashboard-UK
 
 
 ### License
